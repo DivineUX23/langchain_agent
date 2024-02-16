@@ -1,4 +1,4 @@
-# Havard cs50
+# Langchain agent tamplate
 
 ## Installation
 
